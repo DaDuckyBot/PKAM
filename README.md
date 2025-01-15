@@ -1,0 +1,5 @@
+A program killer with eastereggs cuz im bored
+
+Achivements:
+RWFzdGVyZWdnczoKZXhpdApwYXJvdC5leGUKY29sb3IKKHR5cGluZyBub3RoaW5nIGFuZCBwcmVzc2luZyBlbnRlciBpcyBhbiBhY2hpZXZlbWVudCB0b28p
+Base64 encryption for no reason
